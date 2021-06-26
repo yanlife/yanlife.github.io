@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yanlife.github.io</id>
     <title>早安</title>
-    <updated>2021-06-26T09:35:37.894Z</updated>
+    <updated>2021-06-26T11:54:34.223Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://yanlife.github.io"/>
     <link rel="self" href="https://yanlife.github.io/atom.xml"/>
@@ -10,6 +10,44 @@
     <logo>https://yanlife.github.io/images/avatar.png</logo>
     <icon>https://yanlife.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 早安</rights>
+    <entry>
+        <title type="html"><![CDATA[心情小记]]></title>
+        <id>https://yanlife.github.io/post/hello-world/</id>
+        <link href="https://yanlife.github.io/post/hello-world/">
+        </link>
+        <updated>2021-06-26T09:05:49.000Z</updated>
+        <summary type="html"><![CDATA[<p>✍️ 时隔多年又想试试blog了。<br>
+算是我的一个自留地吧。😐<br>
+随手记录一些生活的点滴和心得。。。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>✍️ 时隔多年又想试试blog了。<br>
+算是我的一个自留地吧。😐<br>
+随手记录一些生活的点滴和心得。。。</p>
+<!-- more -->
+<p>🤰怀孕以来没有孕吐、没有色斑、没有痘痘、也没有脱发，家婆帮我照顾的很好，生活也并没有什么负担，似乎一切都很轻松。</p>
+<p>可是，日益臃肿的身体、压力倍增的工作和疫情之下不能回家的家属，依旧让生活变得艰难和沮丧，甚至我已然变成了一个多愁善感的怨妇，时不时就泪流满面。</p>
+<p>回想当初刚刚知道怀孕的小确幸，到两个人一起取名字，再到四维第一次看见早早的模样。我对这个新生命似乎并没有什么特别大的感觉，反而更多的期待来自即将到来的产假和马上要搬进去的新房子😂。</p>
+<p>一想到这个，就觉得自己是一个特别自私的人，利用了早早，为了自己的目的，也为了满足母亲和家婆的心愿，让一个生命不可逆的来到了这个并不轻松的世界。</p>
+<p>唯愿，ta是一个善良聪明、运气好的孩子，能够一生平安和幸福。</p>
+<hr>
+<h2 id="早早的点滴小记录">早早的点滴小记录</h2>
+<blockquote>
+<p>发现早早到来的那天2021.01.05</p>
+</blockquote>
+<p><img src="https://yanlife.github.io/post-images/1624706834064.png" alt="" loading="lazy"><br>
+发现怀孕的前几天，做了一个梦，梦里面有人对我说，你已经是个孕妇了，应该学着小心一点了。想不到过了两天，真的怀孕了，不知道是第六感还是期待成真，也许潜意识里我还是很期待这个孩子的。</p>
+<blockquote>
+<p>早早的第一次心跳2021.01.15</p>
+</blockquote>
+<p><img src="https://yanlife.github.io/post-images/1624706852346.png" alt="" loading="lazy"><br>
+这个时候更多的是庆幸，每天看帖子，出现早多的就是胎停、没胎心什么的，真的好怕。看到有胎心的那一刻，真的非常庆幸，早早并没有因为我贴的暖宝宝挂掉，说明ta是一个坚强的孩子吧😅。</p>
+<blockquote>
+<p>早早的第一张照片2021.05.20</p>
+</blockquote>
+<p><img src="https://yanlife.github.io/post-images/1624707144513.jpg" alt="" loading="lazy"><br>
+第一次看到照片竟然大哭了异常，这小鼻梁也太塌了8😭，简直跟ta老爸一模一样，可我真的希望我的早早是个漂亮的孩子，并不是嫌弃ta，相反，在这个年代，长得好看的人日子才会更轻松些，我只希望我的早早不用那么辛苦。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://yanlife.github.io/post/hello-gridea/</id>
