@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yanlife.github.io</id>
     <title>早安</title>
-    <updated>2021-08-02T12:50:42.630Z</updated>
+    <updated>2021-08-02T13:48:55.872Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://yanlife.github.io"/>
     <link rel="self" href="https://yanlife.github.io/atom.xml"/>
@@ -10,6 +10,35 @@
     <logo>https://yanlife.github.io/images/avatar.png</logo>
     <icon>https://yanlife.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 早安</rights>
+    <entry>
+        <title type="html"><![CDATA[梦里全是工作]]></title>
+        <id>https://yanlife.github.io/post/gong-zuo/</id>
+        <link href="https://yanlife.github.io/post/gong-zuo/">
+        </link>
+        <updated>2021-08-02T12:57:22.000Z</updated>
+        <summary type="html"><![CDATA[<p>😏 连续休了五天的小长假，早上被闹钟惊醒的时候，还在做噩梦。<br>
+以前读书的时候，噩梦都是跟考试和考场有关的。<br>
+现在长大了，噩梦里面，全部都是工作，工作，还是工作。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>😏 连续休了五天的小长假，早上被闹钟惊醒的时候，还在做噩梦。<br>
+以前读书的时候，噩梦都是跟考试和考场有关的。<br>
+现在长大了，噩梦里面，全部都是工作，工作，还是工作。</p>
+<!-- more -->
+<p>不知道从什么时候开始，工作的压力已经大到这种地步。<br>
+每天漫无止境的数据检视，动不动就扣分扣钱、KPI排名。推卡卖药早已变成谋生的手段，不再是当初的治病救人。利益至上的资本家已经把我磨练成了一枚没有感情的棋子。</p>
+<p>回想当年刚加入这个公司的时候，我还以为我找到了距离梦想最近的一条道路，然而，多年以后，这条路变得越来越窄，荆棘丛生不说，还与当初的理念背道而驰。</p>
+<p>有骨气的，早就卷铺盖走人了。<br>
+可是像我们这种没有背景没有积蓄还要养家养娃的人，哪来这样说走就走的勇气呢。</p>
+<p>更何况，资本家的洗脑功底了得。</p>
+<blockquote>
+<p><strong>没有利润哪来的钱养活员工呢？</strong></p>
+</blockquote>
+<p><strong>没错</strong></p>
+<p>自己选择的路，哭着也要走下去。<br>
+我只希望有一天，我能站着把钱赚了。<br>
+就像现在的兼职一样，毫无压力，更毫无思想负担。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[兼职心得]]></title>
         <id>https://yanlife.github.io/post/jian-zhi-xin-de/</id>
